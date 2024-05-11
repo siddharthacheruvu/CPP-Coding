@@ -1,4 +1,0 @@
-﻿  1p6.cpp
-  3p4.cpp
-  Generating Code...
-D:\01_ASU\00_Coding\CPP-Coding\src\1p6.cpp(6): error C4700: uninitialized local variable 'x' used
